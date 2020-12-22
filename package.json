@@ -22,7 +22,7 @@
     "cross-env": "^5.2.1",
     "error-overlay-webpack-plugin": "^0.4.1",
     "friendly-errors-webpack-plugin": "^1.7.0",
-    "node-notifier": "^5.4.3",
+    "node-notifier": "^8.0.1",
     "source-map-loader": "^0.2.4",
     "ts-loader": "^6.1.0",
     "typescript": "^3.6.3",
